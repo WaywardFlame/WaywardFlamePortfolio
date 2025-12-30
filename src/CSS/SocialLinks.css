@@ -29,3 +29,20 @@
     color: white;
     font-size: clamp(20px, 20px + 0.5rem, 5rem); /* I don't really know what the correct max size should be. */
 }
+
+.tooltiptext {
+  visibility: hidden;
+  width: clamp(8vw, 150px, 20vw);
+  font-size: clamp(5pt, 2vw, 12pt);
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0px;
+  position: absolute;
+  z-index: 1;
+}
+
+#Gmail:hover .tooltiptext {
+    visibility: visible;
+}

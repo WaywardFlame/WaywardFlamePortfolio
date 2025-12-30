@@ -15,7 +15,6 @@ function App(){
           <SocialItem socialURL="https://bsky.app/profile/waywardflame.bsky.social" imagePath="Social Logos/bluesky logo.png" />
           <SocialItem socialURL="https://www.linkedin.com/in/brian-statom-33a351250" imagePath="Social Logos/linkedin logo.png" />
           <SocialItem socialURL="https://www.github.com/WaywardFlame" imagePath="Social Logos/github logo.png" />
-          <SocialItem socialURL="#" imagePath="Social Logos/Gmail-logo.png" />
         </SocialContainer>
       </div>
 

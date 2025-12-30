@@ -17,6 +17,10 @@ export function SocialContainer({children, pageLink, pageName}: SocialContainerP
         <div className="SocialBox">
             <div className="SocialContainer">
                 {children}
+                <div id="Gmail">
+                    <img className="SocialItem" src={"Social Logos/Gmail-logo.png"} alt="Gmail" />
+                    <span className="tooltiptext">bstatomb@gmail.com</span>
+                </div>
             </div>
             <div className="PageLink">
                 <a href={pageLink}>{"-->" + pageName + "<--"}</a>
