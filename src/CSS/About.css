@@ -1,0 +1,52 @@
+#ProfileImage {
+    width: max(400px, 20vw);
+    height: max(400px, 30vh);
+    border-radius: 10%;
+    object-fit: cover;
+}
+
+.ProfileDivContainer {
+    margin-bottom: max(20px, 2vh);
+    padding-bottom: max(20px, 2vh);
+    border-bottom: 1px solid white;
+    width: max(400px, 20vw);
+}
+
+.SocialDivContainer {
+    float: left;
+    margin-left: max(30px, 1.5vw);
+    margin-right: max(30px, 1.5vw);
+}
+
+.AboutMeContainer {
+    float: left;
+}
+
+.HeadingText {
+    color: white;
+    border-bottom: 1px solid;
+    margin-left: max(25px, 1.5vw);
+    font-size: clamp(20px, 25px + 0.5rem, 5rem); /* I don't really know what the correct max size should be. */
+}
+
+.AboutBackground {
+    padding: 20px;
+    width: max(400px, 40vw);
+    height: max(400px, 76.5vh);
+    background-color: #272C8F;
+    border-radius: 10%;
+    margin-left: max(0px, 2.75vw);
+    margin-right: max(0px, 1vw);
+}
+
+.AboutText {
+    color: white;
+    font-size: clamp(18px, 1.3vw, 30px);
+}
+
+.PageContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

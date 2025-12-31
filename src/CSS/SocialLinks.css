@@ -25,6 +25,7 @@
     margin-top: max(50px, 4vh);
 }
 
+/* Links are just anchor tags, and thus you can style/modify them in the css styling sheet using 'a' */
 .PageLink a {
     color: white;
     font-size: clamp(20px, 20px + 0.5rem, 5rem); /* I don't really know what the correct max size should be. */

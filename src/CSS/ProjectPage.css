@@ -1,0 +1,14 @@
+.HeadingText {
+    color: white;
+    border-bottom: 1px solid;
+    font-size: clamp(15px, 20px + 0.5rem, 5rem); /* I don't really know what the correct max size should be. */
+}
+
+.ProjectsDisplay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: max(30px, 1.5vw);
+    margin-right: max(30px, 1.5vw);
+}

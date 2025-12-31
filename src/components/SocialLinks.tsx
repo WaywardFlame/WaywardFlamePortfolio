@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { Link } from "react-router-dom";
 import "../CSS/SocialLinks.css";
 
 interface SocialContainerProps {
@@ -23,7 +24,7 @@ export function SocialContainer({children, pageLink, pageName}: SocialContainerP
                 </div>
             </div>
             <div className="PageLink">
-                <a href={pageLink}>{"-->" + pageName + "<--"}</a>
+                <Link to={pageLink}>{"-->" + pageName + "<--"}</Link>
             </div>
         </div>
     );
