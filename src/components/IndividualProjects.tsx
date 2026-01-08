@@ -1,5 +1,5 @@
 import "../CSS/IndividualProjects.css";
-import { UltraGangster2DPics } from '../Photos';
+import { TheSteelHeartedPics, UltraGangster2DPics } from '../Photos';
 import ProjectTemplate from "./ProjectTemplate";
 
 export function UltraGangster2D(){
@@ -24,6 +24,9 @@ export function UltraGangster2D(){
 
 export function TheSteelHearted(){
     return (
-        <div></div>
+        <ProjectTemplate heading="The Steel Hearted" pics={TheSteelHeartedPics}>
+            <p>The Steel Hearted is a turn-based mech game. Players can explore a select few star systems, and fight enemies in order to eventually upgrade their mech for greater combat prowess. Mechs come with 'support cores', tools that alter a mech's move set, and which allow for more varied combat.</p>
+            
+        </ProjectTemplate>
     );
 }
