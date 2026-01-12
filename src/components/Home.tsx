@@ -20,7 +20,7 @@ function Home(){
       </div>
 
       <div className="ProjectDivContainer">
-        <p className="HeadingText" id="Heading">WaywardFlame / Brian T. Statom</p>
+        <p className="HeadingText" id="Heading">Brian T. Statom / WaywardFlame</p>
         <p className="HeadingText" id="Subtitle">Some projects I've worked on. You can view all of them <Link to="/projects">{"-->here.<--"}</Link></p>
         <ProjectPreviewList>
           <ProjectPreviewItem previewTitle="Ultra Gangster: A Twin Stick Shooter Game" previewText="A simple game I made while trying to learn Godot and C#." previewLink="/projects/Ultra Gangster: A Twin Stick Shooter Game" imagePath="Project Pictures/Ultra Gangster 2D/UltraGangster2DPic.png" />

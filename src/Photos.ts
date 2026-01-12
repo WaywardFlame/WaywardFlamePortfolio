@@ -23,23 +23,23 @@ export const UltraGangster2DPics = [
 
 export const TheSteelHeartedPics = [
     {
-        src: "/Project Pictures/The Steel Hearted/SteelHeartedPic.png",
+        src: "/Project Pictures/TheSteelHearted/SteelHeartedPic.png",
         alt: "Steel Hearted Title Screen",
     },
     {
-        src: "/Project Pictures/The Steel Hearted/tsh1.png",
+        src: "/Project Pictures/TheSteelHearted/tsh1.png",
         alt: "Steel Hearted UNE System",
     },
     {
-        src: "/Project Pictures/The Steel Hearted/tsh2.png",
+        src: "/Project Pictures/TheSteelHearted/tsh2.png",
         alt: "Steel Hearted Imperium System",
     },
     {
-        src: "/Project Pictures/The Steel Hearted/tsh3.png",
+        src: "/Project Pictures/TheSteelHearted/tsh3.png",
         alt: "Steel Hearted Combat 1",
     },
     {
-        src: "/Project Pictures/The Steel Hearted/tsh4.png",
+        src: "/Project Pictures/TheSteelHearted/tsh4.png",
         alt: "Steel Hearted Combat 2",
     },
 ];
@@ -61,35 +61,35 @@ export const AriaOfTSHPics = [
 
 export const TournamentOfTSHPics = [
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/MainMenu.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/MainMenu.png",
         alt: "Main Menu",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/SettingsMenu.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/SettingsMenu.png",
         alt: "Settings Menu",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/HubArea.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/HubArea.png",
         alt: "Hub Area",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/RestArea.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/RestArea.png",
         alt: "Rest Area",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/EquipmentScreenProgress.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/EquipmentScreenProgress.png",
         alt: "Equipment Screen Progress",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/DinerArea.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/DinerArea.png",
         alt: "Diner Area",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/ShopArea.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/ShopArea.png",
         alt: "Shop Area",
     },
     {
-        src: "/Project Pictures/Tournament Of The Steel Hearted/ShopScreenProgress.png",
+        src: "/Project Pictures/Tournament Of The Steel Hearted Pics/ShopScreenProgress.png",
         alt: "Shop Screen Progress",
     },
 ];
