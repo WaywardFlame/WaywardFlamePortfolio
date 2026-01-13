@@ -13,7 +13,7 @@
     align-items: center;
     height: max(40px, 10vh);
     color: white;
-    font-size: clamp(15px, 1.5vw, 30px);
+    font-size: clamp(15px, 1.4vw, 25px);
 }
 
 .PreviewItem img {
