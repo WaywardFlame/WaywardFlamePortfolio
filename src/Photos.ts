@@ -1,3 +1,5 @@
+// the photos were done this way for convenience
+
 export const UltraGangster2DPics = [
     {
         src: "/Project Pictures/Ultra Gangster 2D/UltraGangster2DPic.png",
